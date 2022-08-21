@@ -1,6 +1,6 @@
 ﻿@font-face {
 	font-family: 'DodoRegular';
-	src: url("/home/dmitry/work/dodoprojects/dodo_romania/dodokids/main/content/fonts/DodoRegular/DodoRegular.woff") format("woff");font-weight: normal;
+	src: url("../../../fonts/DodoRegular/DodoRegular.woff") format("woff");font-weight: normal;
 	font-style: normal; }
 
 
