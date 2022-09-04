@@ -815,7 +815,7 @@ header {
 .hero-section__logo {
 	width: 360px;
 	height: 64px;
-	background-image: url("../../../images/office/logo.svg");
+	/*background-image: url("../../../images/office/logo.svg");*/
 	background-size: cover;
 	position: relative;
 	margin-top: 6.16667%;
